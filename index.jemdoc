@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}
+= jemdoc -- example page
+[https://manthanwar.github.io Amit M. Manthanwar] ([amit@])
+
+If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used. 
+
+== Example
+Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too. 
+
+~~~
+Save the file as +index.jemdoc+, say, and simply call +jemdoc index+ (after [download.html downloading jemdoc], of course).
+~~~
+
+
+
+Why not use a list
+- to explain the way you do lists?
+- to demonstrate how a line\n break might work? 
+
+ 
+ 
+  	
+Or perhaps a
+. Multilevel
+  .. Numbered list
+  .. Is more
+. Useful? 
+
+
+
+ 	
+== Finally, a few more blocks
+This `section' features "smart quotes". 
+
+~~~
+{}{}
+Plain code block with no title.
+~~~
