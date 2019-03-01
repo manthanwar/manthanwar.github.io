@@ -1,13 +1,16 @@
-jemdoc
-    home                [index.html]
-    download            [download.html]
-    revision history    [revision.html]
-    contact             [contact.html]
+Amit M. Manthanwar
+    Home                [index.html]
+    Biography           [bio.html]
+    Contact             [contact.html]
 
-user's guide
-    cheat sheet         [cheatsheet.html]
-    using               [using.html]
+Research
+    Areas               [areas.html]
+    Projects            [props.html]
+    Publications        [pubs.html]
+    Collaborators       [collabs.html]
 
-goodies
-    add a menu          [menu.html]
-    other stuff         [stuff.html]
+Teaching
+    Courses             [areas.html]
+
+Resources
+    Links               [links.html]

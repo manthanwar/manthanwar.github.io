@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
-= jemdoc -- example page
-[https://manthanwar.github.io Amit M. Manthanwar] ([amit@])
+= [https://manthanwar.github.io Amit M. Manthanwar] 
+[amit@]
 
 If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used. 
 
