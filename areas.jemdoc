@@ -1,4 +1,27 @@
 # jemdoc: menu{MENU}{areas.html}
 = [https://manthanwar.github.io Amit M. Manthanwar] -- Research Areas 
 
+Research is focused on the dynamic design, optimisation and control of physical, chemical and energy systems. Theoretical and algorithmic contributions made in the area of model predictive control for linear and classes of nonlinear systems using mixed integer linear programming, linear matrix inequality based mixed integer convex programming and multi-parametric programming. Developed theory, algorithms and software tools for the industrial implementation of optimisation and advanced process control technology. Developed state-of-the-art fully automated fully integrated fuel cell test facility and experimentally contributed to the investigation of multi-scale fuel cell systems.
 
+
+Current resarch interests include:
+ 
+ - Mathematical Modelling
+ 
+ - Mathematical Optimisation
+    -- Deterministic Optimization
+    -- Convex Optimization
+    -- Multi-Parametric Programming
+ 
+ - Optimal Control
+    -- Covariance Bounded Control
+    -- Model Predictive Control
+    -- Robust Model Predictive Contorl
+    -- Hybrid Model Predictive Control
+ 
+ - Fuel Cell Energy Systems
+    -- In situ investigatin of phenomena
+    -- Development of operational strategies
+    -- Deployment of embedded controllers 
+ 
+ - Smart Manufacturing   
