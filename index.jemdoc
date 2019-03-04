@@ -8,39 +8,8 @@ Program Manager, Texas A&M Energy Insitute
 Workforce Manager, [www.cesmii.org Clean Energy Smart Manufacturing Innovation Institute]
 ~~~
 
-== Contacts
+== Contact
 *Office:* 1617 Reesearch Parkway, College Station, Texas 77843
 *Phone:* 979-458-2552
 *Email:* amit@tamu.edu
 
-Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too. 
-
-~~~
-Save the file as +index.jemdoc+, say, and simply call +jemdoc index+ (after [download.html downloading jemdoc], of course).
-~~~
-
-
-
-Why not use a list
-- to explain the way you do lists?
-- to demonstrate how a line\n break might work? 
-
- 
- 
-  	
-Or perhaps a
-. Multilevel
-  .. Numbered list
-  .. Is more
-. Useful? 
-
-
-
- 	
-== Finally, a few more blocks
-This `section' features "smart quotes". 
-
-~~~
-{}{}
-Plain code block with no title.
-~~~
