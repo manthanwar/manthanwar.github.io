@@ -12,8 +12,8 @@ Research is focused on the dynamic design, optimisation and control of physical,
     -- Sustainable Process Design
 
  - Mathematical Optimisation
-    -- Deterministic Optimization
     -- Convex Optimization
+    -- Deterministic Optimization
     -- Multi-Parametric Programming
 
  - Optimal Control
@@ -23,9 +23,8 @@ Research is focused on the dynamic design, optimisation and control of physical,
     -- Hybrid Model Predictive Control
  
  - Fuel Cell Energy Systems
-    -- In situ investigatin of phenomena
-    -- Development of operational strategies
-    -- Deployment of embedded controllers 
+    -- Investigatin of Fuel Cell Phenomena
+    -- Development of Operational Strategies
  
  - Smart Manufacturing
     -- Cloud Platform Reference Architecture   
