@@ -8,14 +8,17 @@ Research is focused on the dynamic design, optimisation and control of physical,
 == Current research and key areas of interests
 
  - Mathematical Modelling
+    -- Renewable Energy Systems
+    -- Sustainable Process Design
 
  - Mathematical Optimisation
     -- Deterministic Optimization
     -- Convex Optimization
     -- Multi-Parametric Programming
+
  - Optimal Control
     -- Covariance Bounded Control
-    -- Model Predictive Control
+    -- Model-based Predictive Control
     -- Robust Model Predictive Contorl
     -- Hybrid Model Predictive Control
  
@@ -24,4 +27,9 @@ Research is focused on the dynamic design, optimisation and control of physical,
     -- Development of operational strategies
     -- Deployment of embedded controllers 
  
- - Smart Manufacturing   
+ - Smart Manufacturing
+    -- Cloud Platform Reference Architecture   
+    -- Embedded Systems and Digital Automation
+    -- Networking, Data Communication and Security 
+    -- Contextualization and Workflow Orchestration
+ 
